@@ -9,7 +9,9 @@ The script was partly created during a lecture.
 
 ## Usage
 
-Simply run ``python darts_simulation.py``
+Install python, python-matplotlib, python-tk and python-scipy
+
+Run ``python darts_simulation.py``
 
 ## Results
 
